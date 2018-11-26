@@ -10,6 +10,7 @@ namespace Testliuming
     {
         static void Main(string[] args)
         {
+            string str = "fashdoifi";
         }
     }
 }
